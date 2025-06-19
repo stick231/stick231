@@ -16,10 +16,9 @@ _I enjoy math, physics, computer science, engineering, and working with Linux!_
 </p>
 
 ## 🧬 Code Pulse
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stick231&show_icons=true&theme=github_dark" alt="stick231's GitHub stats" width="420" />&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stick231&theme=github-dark-blue" alt="GitHub Streak" width="420" />
+  <img src="https://streak-stats.demolab.com/?user=stick231&theme=github-dark-blue" alt="GitHub Streak" width="420" />
 </p>
 
 <p align="center">

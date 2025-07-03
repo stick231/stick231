@@ -7,7 +7,7 @@
   - Problem solving in math and physics  
   - Computer science and engineering
 
-_I enjoy math, physics, computer science, engineering, and working with Linux!_
+_I’m also passionate about open-source communities and enjoy experimenting with new Linux distributions._
 
 ## 🛠️ Tech Stack
 
